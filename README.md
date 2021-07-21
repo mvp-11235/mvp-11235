@@ -16,7 +16,7 @@
   - Scratch (2017)
   - C, C++ ~~but I almost forgot~~(2018 ~ 2019)
   - Python (2018 ~ 2021)
-  - JavaScript, JAVA & Kotlin(2021)
+  - JavaScript, Kotlin(2021)
 - 한양대 영재교육 (2018)
 - 정보 올림피아드 (2019)
 - KAIST 사이버 영재교육 2개 이수 (2020)
