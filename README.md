@@ -3,7 +3,7 @@
 - 👋 Hi there, I’m <i><b>@mvp-11235</b></i>.
 - 👀 I’m interested in ⌨️programming, 💉pathology, and 🪐the universe.
 - 🌱 I’m currently learning [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
-- 💖 I like [Python](https://www.python.org/) the most!
+- 🌱 I'm currently making Discord Bot just for fun
 - 📫 How to reach me: please contact me on joanneleeathena@gmail.com.
 - 📁 I belong to [YJ-Developers](https://github.com/yjdevs).
 
