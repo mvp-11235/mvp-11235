@@ -1,5 +1,5 @@
 # 👋 Hello World!
-안녕하세요! 파이썬을 좋아하는 학생 개발자입니다!<br>
+Hi there! I'm a student developer in S. Korea! <br>
 ### Email
 - for personal purposes: joanneleeathena@gmail.com
 - for programming purposes: scimatit12544@gmail.com
