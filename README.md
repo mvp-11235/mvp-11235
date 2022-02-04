@@ -1,5 +1,8 @@
 # 👋 Hello World!
-안녕하세요! 파이썬을 좋아하는 학생 개발자입니다!
+안녕하세요! 파이썬을 좋아하는 학생 개발자입니다!<br>
+### Email
+- for personal purposes: joanneleeathena@gmail.com
+- for programming purposes: scimatit12544@gmail.com
 
 # 📊 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mvp-11235&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=2C92CC&include_all_commits=true&custom_title=My%20Github%20Stats)
