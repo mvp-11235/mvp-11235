@@ -1,8 +1,11 @@
 # 👋 Hello World!
 Hi there! I'm a student developer in S. Korea! <br>
-### Email
+### 📧 Email
 - for personal purposes: joanneleeathena@gmail.com
 - for programming purposes: scimatit12544@gmail.com
+### 🏫 School
+- 2017 ~ 2021: 서울양전초등학교
+- 2022: 역삼중학교
 
 # 📊 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mvp-11235&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=2C92CC&include_all_commits=true&custom_title=My%20Github%20Stats)
